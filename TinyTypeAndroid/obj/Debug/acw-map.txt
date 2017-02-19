@@ -1,0 +1,2 @@
+TinyTypeAndroid.MainActivity;tinytypeandroid.MainActivity
+TinyTypeAndroid.InputView;tinytypeandroid.InputView

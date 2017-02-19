@@ -1,0 +1,17 @@
+C:\Users\Mike\Documents\Builds\TinyType\AndroidIME\bin\Debug\WordList.txt
+C:\Users\Mike\Documents\Builds\TinyType\AndroidIME\bin\Debug\AndroidIME.dll
+C:\Users\Mike\Documents\Builds\TinyType\AndroidIME\bin\Debug\AndroidIME.pdb
+C:\Users\Mike\Documents\Builds\TinyType\AndroidIME\bin\Debug\AndroidIME.dll.mdb
+C:\Users\Mike\Documents\Builds\TinyType\AndroidIME\bin\Debug\AndroidIME.AndroidIME.apk
+C:\Users\Mike\Documents\Builds\TinyType\AndroidIME\bin\Debug\AndroidIME.AndroidIME-Signed.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidIME\obj\Debug\AndroidIME.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidIME\obj\Debug\AndroidIME.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidIME\obj\Debug\AndroidIME.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidIME\obj\Debug\android\bin\AndroidIME.AndroidIME.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidIME\obj\Debug\res\layout\main.xml
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidIME\obj\Debug\res\values\strings.xml
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidIME\obj\Debug\res\drawable\icon.png
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidIME\obj\Debug\res\layout\input.xml
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidIME\obj\Debug\res\xml\method.xml
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidIME\obj\Debug\R.cs.flag
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidIME\obj\Debug\uploadflags.txt

@@ -1,0 +1,58 @@
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\bin\Debug\AndroidLib.dll
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\bin\Debug\AndroidLib.pdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\bin\Debug\AndroidLib.dll.mdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\bin\Debug\AndroidLib.AndroidLib.apk
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\bin\Debug\AndroidLib.AndroidLib-Signed.apk
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\bin\Debug\TinyTypeLib.dll
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\bin\Debug\TinyTypeLib.pdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\bin\Debug\TinyTypeLib.dll.mdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\obj\Debug\AndroidLib.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\obj\Debug\AndroidLib.dll
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\obj\Debug\AndroidLib.pdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\obj\Debug\android\bin\AndroidLib.AndroidLib.apk
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\obj\Debug\res\values\strings.xml
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\obj\Debug\R.cs.flag
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\TinyTypeTest\AndroidLib\obj\Debug\uploadflags.txt
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\bin\Debug\AndroidLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\bin\Debug\AndroidLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\bin\Debug\AndroidLib.dll.mdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\bin\Debug\AndroidLib.AndroidLib.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\bin\Debug\AndroidLib.AndroidLib-Signed.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\bin\Debug\TinyTypeLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\bin\Debug\TinyTypeLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\bin\Debug\TinyTypeLib.dll.mdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\obj\Debug\AndroidLib.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\obj\Debug\AndroidLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\obj\Debug\AndroidLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\obj\Debug\android\bin\AndroidLib.AndroidLib.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\obj\Debug\res\values\strings.xml
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\obj\Debug\R.cs.flag
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\AndroidLib\obj\Debug\uploadflags.txt
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\bin\Debug\AndroidLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\bin\Debug\AndroidLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\bin\Debug\AndroidLib.dll.mdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\bin\Debug\AndroidLib.AndroidLib.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\bin\Debug\AndroidLib.AndroidLib-Signed.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\bin\Debug\TinyTypeLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\bin\Debug\TinyTypeLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\bin\Debug\TinyTypeLib.dll.mdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\.bin\Debug\AndroidLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\.bin\Debug\AndroidLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\.bin\Debug\AndroidLib.dll.mdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\.bin\Debug\AndroidLib.AndroidLib.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\.bin\Debug\AndroidLib.AndroidLib-Signed.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\.bin\Debug\TinyTypeLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\.bin\Debug\TinyTypeLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\.bin\Debug\TinyTypeLib.dll.mdb
+C:\Users\Mike\Documents\Builds\TinyType\AndroidLib\bin\Debug\AndroidLib.dll
+C:\Users\Mike\Documents\Builds\TinyType\AndroidLib\bin\Debug\AndroidLib.pdb
+C:\Users\Mike\Documents\Builds\TinyType\AndroidLib\bin\Debug\AndroidLib.dll.mdb
+C:\Users\Mike\Documents\Builds\TinyType\AndroidLib\bin\Debug\AndroidLib.AndroidLib.apk
+C:\Users\Mike\Documents\Builds\TinyType\AndroidLib\bin\Debug\AndroidLib.AndroidLib-Signed.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\obj\Debug\AndroidLib.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\obj\Debug\AndroidLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\obj\Debug\AndroidLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\obj\Debug\android\bin\AndroidLib.AndroidLib.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\obj\Debug\res\values\strings.xml
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\obj\Debug\R.cs.flag
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidLib\obj\Debug\uploadflags.txt

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/mainLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:text="" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/buttonLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:text="Pick Input Method"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/openIMESelection" />
+        <Button
+            android:text="Toggle View"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/toggleView" />
+    </LinearLayout>
+    <androidttr.TTRView
+        android:layout_width="match_parent"
+        android:layout_height="120px"
+        android:id="@+id/ttrView" />
+    <tinytypeandroid.InputView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/inputView" />
+</LinearLayout>

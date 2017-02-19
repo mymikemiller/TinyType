@@ -1,0 +1,15 @@
+C:\Users\Mike\documents\visual studio 2013\Projects\TinyTypeTest\TinyTypeLib\bin\Debug\TinyTypeLib.dll
+C:\Users\Mike\documents\visual studio 2013\Projects\TinyTypeTest\TinyTypeLib\bin\Debug\TinyTypeLib.pdb
+C:\Users\Mike\documents\visual studio 2013\Projects\TinyTypeTest\TinyTypeLib\obj\Debug\TinyTypeLib.csprojResolveAssemblyReference.cache
+C:\Users\Mike\documents\visual studio 2013\Projects\TinyTypeTest\TinyTypeLib\obj\Debug\TinyTypeLib.dll
+C:\Users\Mike\documents\visual studio 2013\Projects\TinyTypeTest\TinyTypeLib\obj\Debug\TinyTypeLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\TinyTypeLib\bin\Debug\TinyTypeLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\TinyTypeLib\bin\Debug\TinyTypeLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\TinyTypeLib\obj\Debug\TinyTypeLib.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\TinyTypeLib\obj\Debug\TinyTypeLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyTypeTest\TinyTypeLib\obj\Debug\TinyTypeLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeLib\bin\Debug\TinyTypeLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeLib\bin\Debug\TinyTypeLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeLib\obj\Debug\TinyTypeLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeLib\obj\Debug\TinyTypeLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeLib\obj\Debug\TinyTypeLib.csprojResolveAssemblyReference.cache

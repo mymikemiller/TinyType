@@ -1,0 +1,13 @@
+C:\Users\Mike\Documents\Builds\TinyType\TinyTypeAndroid\bin\Debug\TinyTypeAndroid.dll
+C:\Users\Mike\Documents\Builds\TinyType\TinyTypeAndroid\bin\Debug\TinyTypeAndroid.pdb
+C:\Users\Mike\Documents\Builds\TinyType\TinyTypeAndroid\bin\Debug\TinyTypeAndroid.dll.mdb
+C:\Users\Mike\Documents\Builds\TinyType\TinyTypeAndroid\bin\Debug\TinyTypeAndroid.TinyTypeAndroid.apk
+C:\Users\Mike\Documents\Builds\TinyType\TinyTypeAndroid\bin\Debug\TinyTypeAndroid.TinyTypeAndroid-Signed.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeAndroid\obj\Debug\TinyTypeAndroid.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeAndroid\obj\Debug\TinyTypeAndroid.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeAndroid\obj\Debug\TinyTypeAndroid.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeAndroid\obj\Debug\android\bin\TinyTypeAndroid.TinyTypeAndroid.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeAndroid\obj\Debug\res\values\strings.xml
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeAndroid\obj\Debug\res\drawable\icon.png
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeAndroid\obj\Debug\R.cs.flag
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeAndroid\obj\Debug\uploadflags.txt

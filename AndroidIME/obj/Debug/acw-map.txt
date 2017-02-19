@@ -1,0 +1,5 @@
+AndroidIME.MainActivity;androidime.MainActivity
+AndroidIME.TinyTypeIME;com.AndroidIME.TinyTypeIME
+AndroidTTR.TTRView;androidttr.TTRView
+TinyTypeAndroid.MainActivity;tinytypeandroid.MainActivity
+TinyTypeAndroid.InputView;tinytypeandroid.InputView

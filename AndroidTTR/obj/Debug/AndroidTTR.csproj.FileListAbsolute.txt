@@ -1,0 +1,15 @@
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\bin\Debug\WordList.txt
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\bin\Debug\AndroidTTR.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\bin\Debug\AndroidTTR.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\bin\Debug\AndroidTTR.dll.mdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\bin\Debug\AndroidTTR.AndroidTTR.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\bin\Debug\AndroidTTR.AndroidTTR-Signed.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\bin\Debug\TTRLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\bin\Debug\TTRLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\obj\Debug\AndroidTTR.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\obj\Debug\AndroidTTR.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\obj\Debug\AndroidTTR.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\obj\Debug\android\bin\AndroidTTR.AndroidTTR.apk
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\obj\Debug\res\values\strings.xml
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\obj\Debug\R.cs.flag
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\obj\Debug\uploadflags.txt

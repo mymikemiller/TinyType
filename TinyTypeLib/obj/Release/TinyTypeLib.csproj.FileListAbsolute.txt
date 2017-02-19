@@ -1,0 +1,10 @@
+C:\Users\Mike\documents\visual studio 2013\Projects\TinyTypeTest\TinyTypeLib\bin\Release\TinyTypeLib.dll
+C:\Users\Mike\documents\visual studio 2013\Projects\TinyTypeTest\TinyTypeLib\bin\Release\TinyTypeLib.pdb
+C:\Users\Mike\documents\visual studio 2013\Projects\TinyTypeTest\TinyTypeLib\obj\Release\TinyTypeLib.csprojResolveAssemblyReference.cache
+C:\Users\Mike\documents\visual studio 2013\Projects\TinyTypeTest\TinyTypeLib\obj\Release\TinyTypeLib.dll
+C:\Users\Mike\documents\visual studio 2013\Projects\TinyTypeTest\TinyTypeLib\obj\Release\TinyTypeLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeLib\bin\Release\TinyTypeLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeLib\bin\Release\TinyTypeLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeLib\obj\Release\TinyTypeLib.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeLib\obj\Release\TinyTypeLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeLib\obj\Release\TinyTypeLib.pdb

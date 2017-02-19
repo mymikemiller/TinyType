@@ -1,0 +1,6 @@
+C:\Users\Mike\Documents\Builds\TinyType\AndroidIME\bin\Debug\AndroidIME.dll
+C:\Users\Mike\Documents\Builds\TinyType\AndroidLib\bin\Debug\AndroidLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\AndroidTTR\bin\Debug\AndroidTTR.dll
+C:\Users\Mike\Documents\Builds\TinyType\TinyTypeAndroid\bin\Debug\TinyTypeAndroid.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TinyTypeLib\bin\Debug\TinyTypeLib.dll
+C:\Users\Mike\Documents\Builds\TinyType\AndroidIME\bin\Debug\TTRLib.dll

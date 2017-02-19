@@ -1,0 +1,6 @@
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TTRLib\bin\Debug\WordList.txt
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TTRLib\bin\Debug\TTRLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TTRLib\bin\Debug\TTRLib.pdb
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TTRLib\obj\Debug\TTRLib.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TTRLib\obj\Debug\TTRLib.dll
+C:\Users\Mike\Documents\My Box Files\Projects\TinyType\TTRLib\obj\Debug\TTRLib.pdb

@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyTypeAndroid", "TinyTypeAndroid\TinyTypeAndroid.csproj", "{3DE950E8-E330-4079-9FFF-FFF4ECF2BB8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyTypeLib", "TinyTypeLib\TinyTypeLib.csproj", "{805D76A8-6C59-4938-AA57-CAC237689473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidIME", "AndroidIME\AndroidIME.csproj", "{C1F433F0-74B9-4887-AB5D-11728AFB84C8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{805D76A8-6C59-4938-AA57-CAC237689473} = {805D76A8-6C59-4938-AA57-CAC237689473}
+		{3DE950E8-E330-4079-9FFF-FFF4ECF2BB8E} = {3DE950E8-E330-4079-9FFF-FFF4ECF2BB8E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidLib", "AndroidLib\AndroidLib.csproj", "{DE42C122-E20B-45C3-A49E-E7BE8F513AF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTRLib", "TTRLib\TTRLib.csproj", "{B0796152-DD38-4EE8-98F6-5D7E0373B872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidTTR", "AndroidTTR\AndroidTTR.csproj", "{C2BC7456-3789-4530-86FD-A1BEA1BEC6D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DE950E8-E330-4079-9FFF-FFF4ECF2BB8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE950E8-E330-4079-9FFF-FFF4ECF2BB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE950E8-E330-4079-9FFF-FFF4ECF2BB8E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3DE950E8-E330-4079-9FFF-FFF4ECF2BB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE950E8-E330-4079-9FFF-FFF4ECF2BB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE950E8-E330-4079-9FFF-FFF4ECF2BB8E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{805D76A8-6C59-4938-AA57-CAC237689473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805D76A8-6C59-4938-AA57-CAC237689473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805D76A8-6C59-4938-AA57-CAC237689473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805D76A8-6C59-4938-AA57-CAC237689473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F433F0-74B9-4887-AB5D-11728AFB84C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F433F0-74B9-4887-AB5D-11728AFB84C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F433F0-74B9-4887-AB5D-11728AFB84C8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C1F433F0-74B9-4887-AB5D-11728AFB84C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F433F0-74B9-4887-AB5D-11728AFB84C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F433F0-74B9-4887-AB5D-11728AFB84C8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DE42C122-E20B-45C3-A49E-E7BE8F513AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE42C122-E20B-45C3-A49E-E7BE8F513AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE42C122-E20B-45C3-A49E-E7BE8F513AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE42C122-E20B-45C3-A49E-E7BE8F513AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0796152-DD38-4EE8-98F6-5D7E0373B872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0796152-DD38-4EE8-98F6-5D7E0373B872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0796152-DD38-4EE8-98F6-5D7E0373B872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0796152-DD38-4EE8-98F6-5D7E0373B872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BC7456-3789-4530-86FD-A1BEA1BEC6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BC7456-3789-4530-86FD-A1BEA1BEC6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BC7456-3789-4530-86FD-A1BEA1BEC6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BC7456-3789-4530-86FD-A1BEA1BEC6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
